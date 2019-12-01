@@ -1,0 +1,1 @@
+A simple app I created to practice using webpack to bundle react.
