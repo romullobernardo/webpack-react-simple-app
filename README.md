@@ -1,1 +1,3 @@
-A simple app I created to practice using webpack to bundle react.
+A simple counter app I created to practice using webpack + babel to bundle react.
+
+I used styled-components for styling. 
